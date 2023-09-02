@@ -1,0 +1,13 @@
+{
+  "algo_family_name": ["PersonalizedTopicsV2WithWatchlistFeaturesAndTopicMLR"],
+  "calibration_type": "exponential",
+  "hdfs_train_data_dir": "/apps/b_perso/hp/simplark/pretrainer",
+  "input_date": "20230115-20230121",
+  "label_column": "labelCombined",
+  "model_tag": "piyi_v7_unbiased",
+  "token": "~/.ssh/prod_github_rsa.token",
+  "ems_project_name": "be-simplex-model",
+  "batch_user": "b_perso",
+  "hdfs_models_store_dir": "/apps/b_perso/hp/simplark/models/root",
+  "prep_data_dump_flag": true
+}
